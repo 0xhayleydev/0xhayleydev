@@ -6,21 +6,15 @@
     A keen and hardworking programmer wanting to get into Gameplay/Network programming for video games.
 </h3>
 
-<p align="center">
-    🌱 I’m currently studying **Game Development: Programming @ Falmouth Uni**
-</p>
+<h4 align="center">
+🌱 I’m currently studying **Game Development: Programming @ Falmouth Uni**
 
-<p align="center">
-    👨‍💻 All of my projects are available at [https://hayleydavi.es](https://hayleydavi.es)]
-</p>
+👨‍💻 All of my projects are available at [https://hayleydavi.es](https://hayleydavi.es)
 
-<p align="center">
-    💬 Ask me about **C# & Unity**
-</p>
+💬 Ask me about **C# & Unity**
 
-<p align="center">
-    📫 How to reach me **hayleyjdavies99@gmail.com**
-</p>
+📫 How to reach me **hayleyjdavies99@gmail.com**
+</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
