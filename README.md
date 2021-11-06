@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    👨‍💻 All of my projects are available at [https://hayleydavi.es](https://hayleydavi.es)
+    👨‍💻 All of my projects are available at [https://hayleydavi.es](https://hayleydavi.es)]
 </p>
 
 <p align="center">
