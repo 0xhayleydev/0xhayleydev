@@ -8,7 +8,7 @@
 
 <h4 align="center">
 
-🌱 I’m currently studying **Game Development: Programming @ Falmouth Uni**
+🌱 I’m currently studying **Computing for Games @ Falmouth Uni**
 
 👨‍💻 All of my projects are available at [https://hayleydavi.es](https://hayleydavi.es)
 
