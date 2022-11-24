@@ -3,7 +3,7 @@
     Hi 👋, I'm Hayley Davies
 </h1>
 <h3 align="center">
-    A keen and hardworking programmer wanting to get into Gameplay/Network programming for video games.
+    A keen and hardworking programmer wanting to get into programming for video games.
 </h3>
 
 <h4 align="center">
