@@ -10,7 +10,7 @@
 
 🌱 I’m currently studying **Computing for Games @ Falmouth Uni**
 
-👨‍💻 All of my projects are available at [https://hayleydavi.es](https://hayleydavi.es)
+👨‍💻 My portfolio is availible here: [https://hayleydavi.es](https://hayleydavi.es)
 
 💬 Ask me about **C# & Unity**
 
