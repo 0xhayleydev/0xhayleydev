@@ -12,7 +12,7 @@
 
 👨‍💻 My portfolio is availible here: [https://hayleydavi.es](https://hayleydavi.es)
 
-💬 Ask me about **C# & Unity**
+💬 Ask me about **Game Development**
 
 📫 How to reach me **hayleyjdavies99@gmail.com**
 </h4>
