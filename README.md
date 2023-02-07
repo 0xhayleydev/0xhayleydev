@@ -1,64 +1,15 @@
+# 💫 About Me:
+🔭 Developing a 3rd Person narrative adventure game in Unreal Engine 5.<br>🌱 Current Computing for Games student at Falmouth University.<br>💬 Ask me about Game Development.<br>⚡ Fun Fact: I traded TikTok for Duolingo and am learning Japanese.
 
-<h1 align="center">
-    Hi 👋, I'm Hayley Davies
-</h1>
-<h3 align="center">
-    A keen and hardworking programmer wanting to get into programming for video games.
-</h3>
 
-<h4 align="center">
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kUhrWKshu8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cdgamedev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cdgamedev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cdgamedev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cdgamedev) 
 
-🌱 I’m currently studying **Computing for Games @ Falmouth Uni**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cdgamedev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cdgamedev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cdgamedev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-👨‍💻 My portfolio is availible here: [https://hayleydavi.es](https://hayleydavi.es)
-
-💬 Ask me about **Game Development**
-
-📫 How to reach me **hayleyjdavies99@gmail.com**
-</h4>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/cdgamedev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cdgamedev" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/cdgamedev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cdgamedev" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/itzhayleyuk" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzhayleyuk" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/cdgamedev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cdgamedev" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/GyS6RQP3n4" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GyS6RQP3n4" height="30" width="40" />
-    </a>
-</p>
-
-<h3 align="center">
-    Languages and Tools:
-</h3>
-<p align="center">
-    <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-    `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://unity.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
