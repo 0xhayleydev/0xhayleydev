@@ -2,7 +2,7 @@
 ### 🔭 Developing a 3rd Person narrative adventure game in Unreal Engine 5.
 ### 🌱 Current Computing for Games student at Falmouth University.
 ### 💬 Ask me about Game Development.
-### ⚡ Fun Fact: I traded TikTok for Duolingo and am learning Japanese.
+### ⚡ Fun Fact: I traded TikTok for Duolingo and am learning German & Japanese.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cdgamedev)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kUhrWKshu8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cdgamedev)
