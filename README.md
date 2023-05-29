@@ -1,6 +1,6 @@
 # 💫 About Me:
-### 🔭 Developing a 3rd Person narrative adventure game in Unreal Engine 5.
-### 🌱 Current Computing for Games student at Falmouth University.
+### 🔭 Developing: ???.
+### 🌱 Former Computing for Games student at Falmouth University.
 ### 💬 Ask me about Game Development.
 ### ⚡ Fun Fact: I traded TikTok for Duolingo and am learning German & Japanese.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cdgamedev)
