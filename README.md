@@ -1,6 +1,6 @@
 <h3>Hey, I'm Hayley!</h3>
 
-- 🎮 Junior Tools Programmer @ Dambuster Studios
+- 🎮 Tools Programmer @ Dambuster Studios
 
 - 🎓 Graduate from Falmouth University
 
